@@ -4,10 +4,10 @@ Functioning RESTful API that uses Node.js, Express, and Sequelize to interact wi
 The functionality of this program is to allow for basic CRUDL operations to be performed in accordance with the database. There are three tables with predefined characteristics in our database: Users, Products, and Categorys. Core functionality involves deleting users and creating, reading, uploading, deleting, and listing products.   
 
 ## Getting Started
-We must first download all dependencies. First, make sure you're in the parent directory that includes `index.js`. Then run the following command:
+We must first download all dependencies. First, make sure you're in the parent directory that includes `index.js`. Then run the following command in your terminal:
 
 ```
-npm install
+$ npm install
 ```
 
 This will install all required dependencies. 
