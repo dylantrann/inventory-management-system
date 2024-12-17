@@ -1,7 +1,7 @@
 # Inventory Management System
 Functioning RESTful API that uses Node.js, Express, and Sequelize to interact with an SQLite database. I used Node.js and Express to run the server and handle routing calls. Sequelize is an ORM used to help interact with the SQLite database in a more object-oriented manner.  
 
-The functionality of this program is to allow for basic CRUDL operations to be performed in accordance with the database. There are three tables with predefined characteristics in our database: Users, Products, and Categorys. Core functionality involves deleting users and creating, reading, uploading, deleting, and listing products.   
+The functionality of this program is to allow for basic CRUDL operations to be performed in accordance with the database. There are three tables with predefined characteristics in our database: Users, Products, and Categorys. Core functionality involves deleting users and creating, reading, updating, deleting, and listing products.   
 
 ## Getting Started
 We must first download all dependencies. First, make sure you're in the parent directory that includes `index.js`. Then run the following command in your terminal:
